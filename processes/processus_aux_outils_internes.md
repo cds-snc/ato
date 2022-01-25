@@ -1,4 +1,4 @@
-# Processus d&#39;autorisation de sécurité relativement aux outils internes [ébauche]
+# Processus d&#39;autorisation de sécurité relativement aux outils internes
 
 
 ## Résumé
