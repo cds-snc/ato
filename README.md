@@ -1,10 +1,15 @@
-# Generic Project Template
+# Authority to Operate documents / les documents d’autorisation d’exploiter
 
-This repository provides some base files for setting up a repository at
-CDS. Plan is to create more project template for specific technologies:
+This repository contains documents related to our authority operate process.
 
-- project-template-terraform
-- project-template-python
-- project-template-nodejs
+Contents
 
-Note that default community health files are maintained at https://github.com/cds-snc/.github 
+- [Security authorization process for internal tools](https://github.com/cds-snc/ato/blob/main/processes/internal_tools_process.md)
+
+---
+
+Ce dépôt contient des documents relatifs à notre processus d'exploitation de l'autorité.
+
+Contenus
+
+- [Processus d’autorisation de sécurité relativement aux outils internes](https://github.com/cds-snc/ato/blob/main/processes/processus_aux_outils_internes.md)
