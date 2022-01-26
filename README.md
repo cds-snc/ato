@@ -1,6 +1,6 @@
 ## Authority to Operate documents / les documents d’autorisation d’exploiter
 
-This repository contains documents related to our authority operate process.
+This repository contains documents related to our authority to operate process.
 
 Contents
 
