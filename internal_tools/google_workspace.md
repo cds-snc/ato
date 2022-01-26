@@ -1,3 +1,11 @@
+---
+name: "Google Workspace + integrations"
+status: "draft"
+date_requested: "2022-01-14"
+date_approved: "(pending)"
+approved_by: "(pending)"
+---
+
 # Google Workspace + integrations (Draft - Approval required)
 
 ## Decision statement/description
@@ -17,7 +25,7 @@ As CDS moved towards a distributed-first model (beginning pre-COVID but continui
 
 As of 2021, Google Workspace is available via the SSC Cloud Brokering Service process. CDS currently procures Google Workspace via this SSC vehicle.
 
-Moving from unclassified-only to Protected A information will allow Google Workspace to be used with types of information that were previously not available. [Previous internal CDS ATO processes](https://drive.google.com/file/d/1uSmqx4_tQGJE6WcCviXvJILUfp5A38xr/view?usp=sharing) have authorized the use of Google Workspace for HR and talent recruitment-related information; this internal ATO broadens that scope to all Protected A data.
+Moving from unclassified-only to Protected A information will allow Google Workspace to be used with types of information that were previously not available. [Previous internal CDS ATO processes](https://drive.google.com/file/d/1uSmqx4_tQGJE6WcCviXvJILUfp5A38xr/view?usp=sharing) (internal) have authorized the use of Google Workspace for HR and talent recruitment-related information; this internal ATO broadens that scope to all Protected A data.
 
 Google Workspace includes [a number of key security measures](https://storage.googleapis.com/gfw-touched-accounts-pdfs/google-cloud-security-and-compliance-whitepaper.pdf), and it is widely used by prominent technology companies. These security measures include:
 
