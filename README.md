@@ -6,7 +6,7 @@ Contents
 
 - [Security authorization process for internal tools](https://github.com/cds-snc/ato/blob/main/processes/internal_tools_process.md)
 - Internal tools
-  - [Google Workspace](https://github.com/cds-snc/ato/blob/main/internal_tools/google_workspace.md)
+  - [Google Workspace (Draft)](https://github.com/cds-snc/ato/blob/main/internal_tools/google_workspace.md)
 
 ---
 
@@ -16,4 +16,4 @@ Contenus
 
 - [Processus d’autorisation de sécurité relativement aux outils internes](https://github.com/cds-snc/ato/blob/main/processes/processus_aux_outils_internes.md)
 - Outils internes (uniquement disponible en anglais)
-  - [Google Workspace](https://github.com/cds-snc/ato/blob/main/internal_tools/google_workspace.md)
+  - [Google Workspace (Ébauche)](https://github.com/cds-snc/ato/blob/main/internal_tools/google_workspace.md)
