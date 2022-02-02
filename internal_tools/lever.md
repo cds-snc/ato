@@ -1,6 +1,6 @@
 ---
 name: "Lever Hire Applicant Tracking System"
-status: "Complete"
+status: "Approved"
 date_requested: "2019-01-04"
 date_approved: "2019-01-25"
 approved_by: "John O'Brien, Anatole Papadopoulos, Paul Girard"
@@ -8,13 +8,15 @@ approved_by: "John O'Brien, Anatole Papadopoulos, Paul Girard"
 
 # Lever Hire Applicant Tracking System
 
+_Note: the Lever ATO below (2019) predates CDS’s updated [Security authorization process for internal tools](https://github.com/cds-snc/ato/blob/main/processes/internal_tools_process.md)._ 
+
 ## General information
 
-**System name:** Lever Hire Application Tracking System
+* **System name:** Lever Hire Application Tracking System
 
-**Date:** 2019-01-04
+* **Date:** 2019-01-04
 
-**Document classification:** Unclassified
+* **Document classification:** Unclassified
 
 ## Purpose
 
@@ -58,7 +60,7 @@ The security controls that CDS is responsible for are [relatively small](https:/
 * All access to the Lever Hire platform requires mandatory two-factor authentication, backed by hardware based YubiKeys that support Universal 2nd Factor (U2F).
 * CDS has adopted a continuous monitoring approach for monitoring its vendors. This includes ongoing use of a security rating services (BitSight), planned escalation and incident response processes, and security scenario exercises. 
 
-**Evidence used as input to this assessment:**
+### Evidence used as input to this assessment:
 
 <table>
   <tr>
@@ -131,19 +133,15 @@ The security review for CDS’s use of the Lever Hire platform does indicate def
 
 The security deficiencies posing the most risk to CDS are related to contingency planning, data protection and compliance risk. 
 
-Contingency Planning
+### Contingency Planning
 
 * Currently the Lever Hire contingency plan and exit strategy have not been exercised. The risk that the contingency plan is only theoretically possible could impact the recruitment business activity with a loss of data and availability. See contingency planning action items below (CP-2, CP-4).
 
-Data Protection
-
-
+### Data Protection
 
 * Currently the disposal procedures for data collected by CDS’s use of the Lever Hire service are insufficient. CDS data within the Lever Hire platform should be kept to a minimum, where possible, in order to minimize the impact of a data breach. See data protection action items below (MP-6 (1)). 
 
-Compliance Risk
-
-
+### Compliance Risk
 
 * Lever integration with CDS’s G-Suite calendar and contacts will be enabled to ensure the team has an efficient way of scheduling interviews and outreach activities. As part of the SSC cloud contract, Google provided ISO27001 & SOC 2 Type 2 reports. CDS has not yet completed a security assessment of G-Suite. Assessment work for this SaaS product is underway, and expected to be completed shortly (CA-2, CA-6).
 * The Apple MacBooks used at CDS are currently not authorized to process Protected A data. It is expected that these assets will be used to access the Lever Hire platform. As a result Protected A information is likely to be cached on these assets. It should be noted that all CDS devices are managed through the use of the Jamf Pro device management tool, and have audit compliance in place based on the CIS Benchmarks, including enforced full disk encryption, remote wipe, strong password policies, and endpoint detection and response (EDR) products are installed. Assessment work for these devices is underway, and expected to be completed shortly (CA-2, CA-6).
