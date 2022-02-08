@@ -10,7 +10,7 @@ Contents
   - [FreshDesk](https://github.com/cds-snc/ato/blob/main/internal_tools/freshdesk.md)
   - [Google Workspace (Draft)](https://github.com/cds-snc/ato/blob/main/internal_tools/google_workspace.md)
   - [Lever](https://github.com/cds-snc/ato/blob/main/internal_tools/lever.md)
-  - [Zendeak (Draft)](https://github.com/cds-snc/ato/blob/main/internal_tools/lever.md)
+  - [Zendesk (Draft)](https://github.com/cds-snc/ato/blob/main/internal_tools/lever.md)
 
 ---
 
