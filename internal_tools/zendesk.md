@@ -61,7 +61,7 @@ This document recommends the use of Zendesk with Protected A data. See below for
 
 <li>Failure to maintain the integrity of client contact information (for example, not being able to match ticket request content with the correct client) would have similar harms, also with an expected injury significance that is likely to be <strong>low</strong>.
 
-<li>Failure to maintain the availability of the information (for example, Zendesk being temporarily unavailable) would have similar harms, as clients would have to wait until the system returns online for CDS support staff to be able to respond. Other mechanisms could be used in the interim (for example, TBS email, partner support from Health Canada support colleagues, etc.). The expected injury significance is also <strong>low</strong>.
+<li>Failure to maintain the availability of the information (for example, Zendesk being temporarily unavailable) would have similar harms, as clients would have to wait until the system returns online for CDS support staff to be able to respond. Other mechanisms could be used in the interim (for example, TBS email, CDS email and slack channels, etc.). The expected injury significance is also <strong>low</strong>.
 </li>
 </ul>
    </td>
